@@ -4,12 +4,11 @@ import {
   Blackdescription,
   GradientHeading,
   Heading,
-
-} from "../../../Global/GlobalText";
-import { PurpleBackground } from "../../../Global/GlobalButton";
+} from "../../../../Global/GlobalText";
+import { PurpleBackground } from "../../../../Global/GlobalButton";
 import { FaArrowRightLong } from "react-icons/fa6";
 
-import frame from "../../../assets copy/Images/frame.png";
+import frame from "../../../../Assets/Images/frame.png";
 
 
 export const Section2 = () => {

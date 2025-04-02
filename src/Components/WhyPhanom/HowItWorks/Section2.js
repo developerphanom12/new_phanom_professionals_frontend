@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import { secGradient } from "../../../../GlobalStyles";
+import { secGradient } from "../../../Global/GlobalButton";
 
 export default function Section2() {
   return (

@@ -1,14 +1,8 @@
 import React, { useState } from "react";
 import styled from "styled-components";
-import {
-  Blackdescription,
-  BlackHeading,
-  Faqdescription,
-  FaqHeading,
-  Heading,
-} from "../../../Global/GlobalText";
-import { PurpleBackground } from "../../../Global/GlobalButton";
-import vectorani from "../../../assets copy/Images/vectorani.png";
+import vectorani from "../../../../Assets/Images/vectorani.png";
+import { Blackdescription, BlackHeading, Faqdescription, FaqHeading, Heading } from "../../../../Global/GlobalText";
+import { PurpleBackground } from "../../../../Global/GlobalButton";
 
 export const Section12 = () => {
   const [questions, setQuestions] = useState([

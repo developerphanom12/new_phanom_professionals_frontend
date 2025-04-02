@@ -7,7 +7,7 @@ import Section5 from "./Section5";
 import Section6 from "./Section6";
 import Section7 from "./Section7";
 import Section8 from "./Section8";
-import Formm from "../../Home/Formm";
+import Form from "../../HomePages/Home/Formm";
 
 
 export default function VettingProcess() {
@@ -21,7 +21,7 @@ export default function VettingProcess() {
       <Section6 />
       <Section7 />
       <Section8 />
-      <Formm/>
+      <Form/>
     </div>
   );
 }

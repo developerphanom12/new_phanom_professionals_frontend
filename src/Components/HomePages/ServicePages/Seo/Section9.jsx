@@ -5,12 +5,12 @@ import {
   GreySecondDescription,
   Heading,
   PurpleSubHeading,
-} from "../../../Global/GlobalText";
-import framneww from "../../../assets copy/Images/framm.png";
-import groupone from "../../../assets copy/Images/groupone.png";
-import liabnew from "../../../assets copy/Images/liabnew.png";
-import groupthree from "../../../assets copy/Images/groupthree.png";
-import groupfour from "../../../assets copy/Images/groupfour.png";
+} from "../../../../Global/GlobalText";
+import framneww from "../../../../Assets/Images/framm.png";
+import groupone from "../../../../Assets/Images/groupone.png";
+import liabnew from "../../../../Assets/Images/liabnew.png";
+import groupthree from "../../../../Assets/Images/groupthree.png";
+import groupfour from "../../../../Assets/Images/groupfour.png";
 
 export const Section9 = () => {
   return (

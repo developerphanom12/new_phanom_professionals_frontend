@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { FaArrowDown, FaArrowRight } from "react-icons/fa6";
 import styled from "styled-components";
-import { primaryColor } from "../../../../GlobalStyles";
+import { primaryColor } from "../../../Global/GlobalButton";
 
 export default function Section2() {
   const [isArrowRightVisible3, setIsArrowRightVisible3] = useState(true);

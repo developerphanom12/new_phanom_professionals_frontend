@@ -2,8 +2,7 @@ import React from 'react'
 import Section1 from './Section1';
 import Section2 from './Section2';
 import Section3 from './Section3';
-import Formm from '../../Home/Formm';
-// import Section4 from './Section4';
+import Form from '../../HomePages/Home/Formm';
 
 export default function HowItWorks() {
   return (
@@ -11,7 +10,7 @@ export default function HowItWorks() {
         <Section1 />
         <Section2 />
         <Section3 />
-        <Formm/>
+        <Form/>
         {/* <Section4 /> */}
     </div>
   )

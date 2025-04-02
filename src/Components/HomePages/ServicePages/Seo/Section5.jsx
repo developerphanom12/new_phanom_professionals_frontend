@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
-import { Greydescription, Textwithborder } from "../../../Global/GlobalText";
-import visibility from "../../../assets copy/Images/visibility.png";
+import { Greydescription, Textwithborder } from "../../../../Global/GlobalText";
+import visibility from "../../../../Assets/Images/visibility.png";
 
 export const Section5 = () => {
   return (

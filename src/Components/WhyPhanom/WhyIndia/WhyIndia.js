@@ -6,7 +6,7 @@ import Section4 from './Section4'
 import Section5 from './Section5'
 import Section6 from './Section6'
 import Section7 from './Section7'
-import Formm from '../../Home/Formm'
+import Form from '../../HomePages/Home/Formm'
 
 export default function WhyIndia() {
   return (
@@ -18,7 +18,7 @@ export default function WhyIndia() {
         <Section5 />
         <Section6 />
         <Section7 />
-        <Formm/>
+        <Form/>
     </div>
   )
 }

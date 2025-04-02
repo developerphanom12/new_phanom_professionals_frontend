@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
-import { Greydescription, Textwithborder } from "../../../Global/GlobalText";
-import socialmedianew from "../../../assets copy/Images/socialmedianew.png";
+import { Greydescription, Textwithborder } from "../../../../Global/GlobalText";
+import socialmedianew from "../../../../Assets/Images/socialmedianew.png";
 
 export const Section5 = () => {
   return (

@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
-import listimg from "../../../Images/lists.png";
-import { secGradient } from "../../../../GlobalStyles";
+import listimg from "../../../Assets/Images/lists.png";
+import { secGradient } from "../../../Global/GlobalButton";
 
 export default function Section3() {
   return (

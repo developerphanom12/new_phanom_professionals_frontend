@@ -1,16 +1,11 @@
 import React from "react";
 import styled from "styled-components";
-import {
-  GradientSecondHeading,
-  GreySecondDescription,
-  Heading,
-  PurpleSubHeading,
-} from "../../../Global/GlobalText";
-import framneww from "../../../assets copy/Images/framm.png";
-import groupone from "../../../assets copy/Images/groupone.png";
-import aacountabity from "../../../assets copy/Images/aacountabity.png";
-import groupthree from "../../../assets copy/Images/groupthree.png";
-import groupfour from "../../../assets copy/Images/groupfour.png";
+import framneww from "../../../../Assets/Images/framm.png";
+import groupone from "../../../../Assets/Images/groupone.png";
+import aacountabity from "../../../../Assets/Images/aacountabity.png";
+import groupthree from "../../../../Assets/Images/groupthree.png";
+import groupfour from "../../../../Assets/Images/groupfour.png";
+import { GradientSecondHeading, GreySecondDescription, Heading, PurpleSubHeading } from "../../../../Global/GlobalText";
 
 export const Section9 = () => {
   return (

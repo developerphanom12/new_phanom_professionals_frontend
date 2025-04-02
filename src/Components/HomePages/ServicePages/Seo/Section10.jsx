@@ -6,11 +6,11 @@ import {
   Greydescription,
   Heading,
   Subdescription,
-} from "../../../Global/GlobalText";
+} from "../../../../Global/GlobalText";
 import {
 
   PurpleBackground,
-} from "../../../Global/GlobalButton";
+} from "../../../../Global/GlobalButton";
 import { FaArrowRightLong } from "react-icons/fa6";
 import { AppoinmentForm } from "../../AppointmentForm/AppoinmentForm";
 

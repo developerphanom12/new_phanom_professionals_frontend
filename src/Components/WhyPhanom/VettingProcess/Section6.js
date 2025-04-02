@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
-import chainpic from "../../../Images/chainimg.png";
-import { secGradient } from "../../../../GlobalStyles";
+import chainpic from "../../../Assets/Images/chainimg.png";
+import { secGradient } from "../../../Global/GlobalButton";
 
 export default function Section6() {
   return (

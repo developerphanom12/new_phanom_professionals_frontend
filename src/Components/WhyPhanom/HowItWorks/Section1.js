@@ -1,10 +1,9 @@
 import React, { useEffect } from "react";
 import styled from "styled-components";
-import "bootstrap/dist/css/bootstrap.min.css";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import { FaPlay } from "react-icons/fa6";
-import { primaryColor, secGradient } from "../../../../GlobalStyles";
+import { primaryColor, secGradient } from "../../../Global/GlobalButton";
 
 export default function Section1() {
   useEffect(() => {

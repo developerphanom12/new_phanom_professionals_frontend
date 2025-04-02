@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
-import svgg from "../../../Images/svg.svg";
-import { primaryColor, secGradient } from "../../../../GlobalStyles";
+import svgg from "../../../Assets/Images/svg.svg";
+import { primaryColor, secGradient } from "../../../Global/GlobalButton";
 
 export default function Section6() {
   return (

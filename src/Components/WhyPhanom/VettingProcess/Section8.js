@@ -1,7 +1,7 @@
 import React from "react";
 import { RiAlarmWarningFill } from "react-icons/ri";
 import styled from "styled-components";
-import { primaryColor, secGradient } from "../../../../GlobalStyles";
+import { primaryColor, secGradient } from "../../../Global/GlobalButton";
 
 export default function Section8() {
   return (

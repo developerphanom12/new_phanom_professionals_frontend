@@ -5,7 +5,7 @@ import AccordionSummary from "@mui/material/AccordionSummary";
 import AccordionDetails from "@mui/material/AccordionDetails";
 import Typography from "@mui/material/Typography";
 import ArrowDownwardIcon from "@mui/icons-material/ArrowDownward";
-import { primaryColor } from "../../../../GlobalStyles";
+import { primaryColor } from "../../../Global/GlobalButton";
 
 export default function Section7() {
 

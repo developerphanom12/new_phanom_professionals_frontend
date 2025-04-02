@@ -1,14 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import {
-  BlackHeading,
-  GreySecondDescription,
-  PurpleHeading,
-  Textwithborder,
-  WhiteDescription,
-  WhitekHeading,
-  WhiteNumberHeading,
-} from "../../../Global/GlobalText";
+import {  BlackHeading, GreySecondDescription, PurpleHeading, Textwithborder, WhiteDescription, WhitekHeading, WhiteNumberHeading } from "../../../../Global/GlobalText";
 
 export const Section8 = () => {
   return (

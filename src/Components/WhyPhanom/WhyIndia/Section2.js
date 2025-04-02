@@ -1,7 +1,7 @@
 import React from "react";
 import { FaCheck } from "react-icons/fa6";
 import styled from "styled-components";
-import { primaryColor, secGradient } from "../../../../GlobalStyles";
+import { primaryColor, secGradient } from "../../../Global/GlobalButton";
 
 export default function Section2() {
   return (

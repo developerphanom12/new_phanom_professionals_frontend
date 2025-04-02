@@ -3,13 +3,13 @@ import styled from "styled-components";
 import {
   GreyBorderButton,
   PurpleBackground,
-} from "../../Global/GlobalButton";
+} from "../../../Global/GlobalButton";
 import {
   InputLabel,
   InputTextarea,
   InputType,
   SelectBorder,
-} from "../../Global/GlobalFormElement";
+} from "../../../Global/GlobalFormElement";
 import TimezoneSelect from "react-timezone-select";
 import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";

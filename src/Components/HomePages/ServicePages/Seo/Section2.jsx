@@ -4,10 +4,10 @@ import {
   Blackdescription,
   GradientHeading,
   Heading,
-} from "../../../Global/GlobalText";
-import { PurpleBackground } from "../../../Global/GlobalButton";
+} from "../../../../Global/GlobalText";
+import { PurpleBackground } from "../../../../Global/GlobalButton";
 import { FaArrowRightLong } from "react-icons/fa6";
-import frame from "../../../assets copy/Images/frame.png";
+import frame from "../../../../Assets/Images/frame.png";
 
 export const Section2 = () => {
   return (
@@ -15,7 +15,7 @@ export const Section2 = () => {
       <div className="main_div">
         <div className="sub_main_div">
           <span>
-            <Heading>Professional Offshore</Heading>
+            <Heading>Offshore</Heading>
             <GradientHeading>Seo</GradientHeading>
             <br />
 

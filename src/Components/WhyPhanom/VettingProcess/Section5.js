@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import { primaryColor, secGradient } from "../../../../GlobalStyles";
+import { primaryColor, secGradient } from "../../../Global/GlobalButton";
 
 export default function Section5() {
   return (

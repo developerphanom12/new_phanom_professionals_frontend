@@ -5,16 +5,16 @@ import {
   GradientHeading,
   Greydescription,
   Heading,
-} from "../../../Global/GlobalText";
-import { PurpleBackground } from "../../../Global/GlobalButton";
-import seorankingnew from "../../../assets copy/Images/seorankingnew.png";
-import shopifynew from "../../../assets copy/Images/shopifynew.png";
-import amazonnew from "../../../assets copy/Images/amazonnew.png";
-import seofreiendlynew from "../../../assets copy/Images/seofreiendlynew.png";
-import conversionnew from "../../../assets copy/Images/conversionnew.png";
-import ottnew from "../../../assets copy/Images/ottnew.png";
-import appnew from "../../../assets copy/Images/appnew.png";
-import youtubenew from "../../../assets copy/Images/youtubenew.png";
+} from "../../../../Global/GlobalText";
+import { PurpleBackground } from "../../../../Global/GlobalButton";
+import seorankingnew from "../../../../Assets/Images/seorankingnew.png";
+import shopifynew from "../../../../Assets/Images/shopifynew.png";
+import amazonnew from "../../../../Assets/Images/amazonnew.png";
+import seofreiendlynew from "../../../../Assets/Images/seofreiendlynew.png";
+import conversionnew from "../../../../Assets/Images/conversionnew.png";
+import ottnew from "../../../../Assets/Images/ottnew.png";
+import appnew from "../../../../Assets/Images/appnew.png";
+import youtubenew from "../../../../Assets/Images/youtubenew.png";
 
 export const Section6 = () => {
   return (

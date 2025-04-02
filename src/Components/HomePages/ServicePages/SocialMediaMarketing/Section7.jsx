@@ -1,11 +1,7 @@
 import React from "react";
 import styled from "styled-components";
-import {
-  GradientHeading,
-  Greydescription,
-  Heading,
-} from "../../../Global/GlobalText";
-import { GradientButton, GreyBorder } from "../../../Global/GlobalButton";
+import { GradientButton, GreyBorder } from "../../../../Global/GlobalButton";
+import { GradientHeading, Greydescription, Heading } from "../../../../Global/GlobalText";
 
 export const Section7 = () => {
   return (

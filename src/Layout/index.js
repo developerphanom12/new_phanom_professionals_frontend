@@ -6,10 +6,6 @@ import { useLocation } from "react-router-dom";
 
 const Layout = ({ children }) => {
   const location = useLocation();
-  // const token = localStorage.getItem("token");
-  // const userDetails = useSelector((state) => state?.user);
-
-  // const isLandingPage = location.pathname === "/hire-indian-talent";
   const isLandingPage = [
     "/hire-indian-talent",
     "/apply",
@@ -18,35 +14,12 @@ const Layout = ({ children }) => {
 
   return (
     <Root>
-      {/* {isLandingPage &&(
-         <div className="top_bar">
-          {token ?
-            ( 
-             userDetails.role === "buyer" ? 
-            (
-              <NavBuyer/>
-            ) : userDetails.role === "seller" ?
-            (
-              <NavSeller />
-            ) : 
-            (<CommonNavbar/>
-
-            ) 
-          ) : (
-          <CommonNavbar/>
-          )
-          }
-         </div>
-      )} */}
-      {/* {isLandingPage &&( */}
       <>
         {!isLandingPage && <TopNavbar />}
-
         <div className="main_body">{children}</div>
         {!isLandingPage && <Footer />}
       </>
-      {/* )} */}
-      {/* <Footer/> */}
+     
     </Root>
   );
 };

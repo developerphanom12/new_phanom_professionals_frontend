@@ -5,16 +5,16 @@ import {
   GradientHeading,
   Greydescription,
   Heading,
-} from "../../../Global/GlobalText";
-import { PurpleBackground } from "../../../Global/GlobalButton";
-import propagation from "../../../assets copy/Images/propagation.png";
-import trumpeting from "../../../assets copy/Images/trumpeting.png";
-import branmangement from "../../../assets copy/Images/branmangement.png";
-import captionwriting from "../../../assets copy/Images/captionwriting.png";
-import contentwriting from "../../../assets copy/Images/contentwriting.png";
-import postdesigning from "../../../assets copy/Images/postdesigning.png";
-import socialmediaoptimisation from "../../../assets copy/Images/socialmediaoptimisation.png";
-import calenderschedule from "../../../assets copy/Images/calenderschedule.png";
+} from "../../../../Global/GlobalText";
+import { PurpleBackground } from "../../../../Global/GlobalButton";
+import propagation from "../../../../Assets/Images/propagation.png";
+import trumpeting from "../../../../Assets/Images/trumpeting.png";
+import branmangement from "../../../../Assets/Images/branmangement.png";
+import captionwriting from "../../../../Assets/Images/captionwriting.png";
+import contentwriting from "../../../../Assets/Images/contentwriting.png";
+import postdesigning from "../../../../Assets/Images/postdesigning.png";
+import socialmediaoptimisation from "../../../../Assets/Images/socialmediaoptimisation.png";
+import calenderschedule from "../../../../Assets/Images/calenderschedule.png";
 
 export const Section6 = () => {
   return (

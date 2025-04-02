@@ -1,9 +1,9 @@
 import React from "react";
 import styled from "styled-components";
-import logo1 from "../../../Images/logo1.png";
-import logo2 from "../../../Images/logo2.png";
-import logo3 from "../../../Images/logo3.png";
-import logo4 from "../../../Images/logo4.png";
+import logo1 from "../../../Assets/Images/logo1.png";
+import logo2 from "../../../Assets/Images/logo2.png";
+import logo3 from "../../../Assets/Images/logo3.png";
+import logo4 from "../../../Assets/Images/logo4.png";
 
 export default function Section5() {
   return (

@@ -1,26 +1,26 @@
 import React from "react";
 import styled from "styled-components";
-import ind1 from "../../../Images/ind1.png";
-import ind2 from "../../../Images/ind2.png";
-import ind3 from "../../../Images/ind3.png";
-import ind4 from "../../../Images/ind4.png";
-import ind5 from "../../../Images/ind5.png";
-import ind6 from "../../../Images/ind6.png";
-import ind7 from "../../../Images/ind7.png";
-import ind8 from "../../../Images/ind8.png";
-import ind9 from "../../../Images/ind9.png";
-import ind10 from "../../../Images/ind10.png";
-import ind11 from "../../../Images/ind11.png";
-import ind12 from "../../../Images/ind12.png";
-import ind13 from "../../../Images/ind13.png";
-import ind14 from "../../../Images/ind14.png";
-import ind15 from "../../../Images/ind15.png";
-import ind16 from "../../../Images/ind16.png";
-import ind17 from "../../../Images/ind17.png";
-import ind18 from "../../../Images/ind18.png";
-import ind19 from "../../../Images/ind19.png";
-import ind20 from "../../../Images/ind20.png";
-import {  secGradient } from "../../../../GlobalStyles";
+import ind1 from "../../../Assets/Images/ind1.png";
+import ind2 from "../../../Assets/Images/ind2.png";
+import ind3 from "../../../Assets/Images/ind3.png";
+import ind4 from "../../../Assets/Images/ind4.png";
+import ind5 from "../../../Assets/Images/ind5.png";
+import ind6 from "../../../Assets/Images/ind6.png";
+import ind7 from "../../../Assets/Images/ind7.png";
+import ind8 from "../../../Assets/Images/ind8.png";
+import ind9 from "../../../Assets/Images/ind9.png";
+import ind10 from "../../../Assets/Images/ind10.png";
+import ind11 from "../../../Assets/Images/ind11.png";
+import ind12 from "../../../Assets/Images/ind12.png";
+import ind13 from "../../../Assets/Images/ind13.png";
+import ind14 from "../../../Assets/Images/ind14.png";
+import ind15 from "../../../Assets/Images/ind15.png";
+import ind16 from "../../../Assets/Images/ind16.png";
+import ind17 from "../../../Assets/Images/ind17.png";
+import ind18 from "../../../Assets/Images/ind18.png";
+import ind19 from "../../../Assets/Images/ind19.png";
+import ind20 from "../../../Assets/Images/ind20.png";
+import { secGradient } from "../../../Global/GlobalButton";
 
 export default function Section3() {
   return (

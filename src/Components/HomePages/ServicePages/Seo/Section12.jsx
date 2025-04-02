@@ -6,9 +6,9 @@ import {
   Faqdescription,
   FaqHeading,
   Heading,
-} from "../../../Global/GlobalText";
-import { PurpleBackground } from "../../../Global/GlobalButton";
-import vectorani from "../../../assets copy/Images/vectorani.png";
+} from "../../../../Global/GlobalText";
+import { PurpleBackground } from "../../../../Global/GlobalButton";
+import vectorani from "../../../../Assets/Images/vectorani.png";
 
 export const Section12 = () => {
   const [questions, setQuestions] = useState([

@@ -1,19 +1,10 @@
 import React from "react";
 import styled from "styled-components";
-import {
-  GradientSecondHeading,
-  GradientSubHeading,
-  Greydescription,
-  Heading,
-  Subdescription,
-} from "../../../Global/GlobalText";
-import {
-  PurpleBackground,
-} from "../../../Global/GlobalButton";
 import { FaArrowRightLong } from "react-icons/fa6";
-
 import "react-datepicker/dist/react-datepicker.css";
 import { AppoinmentForm } from "../../AppointmentForm/AppoinmentForm";
+import { GradientSecondHeading, GradientSubHeading, Greydescription, Heading, Subdescription } from "../../../../Global/GlobalText";
+import { PurpleBackground } from "../../../../Global/GlobalButton";
 
 export const Section10 = () => {
  
